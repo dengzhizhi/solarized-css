@@ -26,9 +26,3 @@ blockquote::after {
     height: 3px;
     width: 200px;
 }
-
-blockquote span{
-  display:block;
-  font-style: normal;
-  margin-top:1em;
-}
